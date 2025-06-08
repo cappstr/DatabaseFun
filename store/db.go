@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/cap79/database_fun/config"
+	"github.com/cappstr/database_fun/config"
 	_ "github.com/lib/pq"
 )
 
