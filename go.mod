@@ -1,4 +1,4 @@
-module github.com/cap79/database_fun
+module github.com/cappstr/database_fun
 
 go 1.23.4
 
